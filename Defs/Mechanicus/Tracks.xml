@@ -1,0 +1,59 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Warriors of Mars</label>
+		<defName>ME_40K_Mechanicus_Warriors_of_Mars</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Warriors of Mars</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Treacherous</label>
+		<defName>ME_40K_Mechanicus_Treacherous</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Treacherous</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Overlord</label>
+		<defName>ME_40K_Mechanicus_Overlord</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Overlord</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Noosphere</label>
+		<defName>ME_40K_Mechanicus_Noosphere</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Noosphere</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Millennial Rage</label>
+		<defName>ME_40K_Mechanicus_Millennial_Rage</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Millennial Rage</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Lost Civilizations</label>
+		<defName>ME_40K_Mechanicus_Lost_Civilizations</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Lost Civilizations</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Immortal Machine</label>
+		<defName>ME_40K_Mechanicus_Immortal_Machine</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Immortal Machine</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Dance of the Cryptek</label>
+		<defName>ME_40K_Mechanicus_Dance_of_the_Cryptek</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Dance of the Cryptek</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Caestus Metalican</label>
+		<defName>ME_40K_Mechanicus_Caestus_Metalican</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Caestus Metalican</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Binary Signal</label>
+		<defName>ME_40K_Mechanicus_Binary_Signal</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Binary Signal</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Mechanicus- Children of the Omnissiah</label>
+		<defName>ME_40K_Mechanicus_Children_of_the_Omnissiah</defName>
+		<clipPath>MusicExpanded/Mechanicus/Mechanicus- Children of the Omnissiah</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+</Defs>

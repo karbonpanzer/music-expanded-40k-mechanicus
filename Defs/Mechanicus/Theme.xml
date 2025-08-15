@@ -1,0 +1,22 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_40K_Mechanicus</defName>
+        <label>Music Expanded: Warhammer 40K: Mechanicus</label>
+		<iconPath>UI/Icons/Mechanicus</iconPath>
+        <description>Contains Tracks tactical squad shooter Warhammer 40K Mechanicus, where a group of Adeptus Mechanicus attempt to liberate a stash of toasters from the cold metal hands of a bunch of sleepy Necrons.</description>
+		<tracks>			
+			<li>ME_40K_Mechanicus_Warriors_of_Mars</li>
+			<li>ME_40K_Mechanicus_Treacherous</li>
+			<li>ME_40K_Mechanicus_Overlord</li>
+			<li>ME_40K_Mechanicus_Noosphere</li>
+			<li>ME_40K_Mechanicus_Millennial_Rage</li>
+			<li>ME_40K_Mechanicus_Lost_Civilizations</li>
+			<li>ME_40K_Mechanicus_Immortal_Machine</li>
+			<li>ME_40K_Mechanicus_Dance_of_the_Cryptek</li>
+			<li>ME_40K_Mechanicus_Caestus_Metalican</li>
+			<li>ME_40K_Mechanicus_Binary_Signal</li>
+
+			<li>ME_40K_Mechanicus_Children_of_the_Omnissiah</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
